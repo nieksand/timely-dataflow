@@ -24,7 +24,7 @@ time="0.1.34"
 
 [dev-dependencies]
 timely_sort="0.1.6"
-rand="0.4"
+rand="0.5"
 #skeptic = "0.12"
 
 #[build-dependencies]
